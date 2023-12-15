@@ -1,0 +1,13 @@
+plugins=(
+  asdf
+  aws
+  docker
+  docker-compose
+  git
+  golang
+  node
+  npm
+  pyenv
+  terraform
+  yarn
+)
